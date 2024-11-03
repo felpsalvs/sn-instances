@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
     <sys_embedded_help_role action="INSERT_OR_UPDATE">
         <order>1000</order>
-        <role display_value="x_1555677_task_one.user" name="x_1555677_task_one.user">99eb198683e11210835c1630ceaad3ba</role>
+        <role display_value="x_1555677_task_one.registration_user" name="x_1555677_task_one.registration_user">244dfb5e83e19210835c1630ceaad3d9</role>
         <sys_class_name>sys_embedded_help_role</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2024-10-31 02:02:22</sys_created_on>
-        <sys_id>9deb198683e11210835c1630ceaad3bb</sys_id>
+        <sys_created_on>2024-11-01 08:25:52</sys_created_on>
+        <sys_id>f44dfb5e83e19210835c1630ceaad3dd</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>99eb198683e11210835c1630ceaad3ba</sys_name>
+        <sys_name>244dfb5e83e19210835c1630ceaad3d9</sys_name>
         <sys_package display_value="Event Registration" source="x_1555677_task_one">1deb198683e11210835c1630ceaad392</sys_package>
         <sys_policy/>
         <sys_scope display_value="Event Registration">1deb198683e11210835c1630ceaad392</sys_scope>
-        <sys_update_name>sys_embedded_help_role_9deb198683e11210835c1630ceaad3bb</sys_update_name>
+        <sys_update_name>sys_embedded_help_role_f44dfb5e83e19210835c1630ceaad3dd</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-10-31 02:02:22</sys_updated_on>
+        <sys_updated_on>2024-11-01 08:25:52</sys_updated_on>
     </sys_embedded_help_role>
 </record_update>
