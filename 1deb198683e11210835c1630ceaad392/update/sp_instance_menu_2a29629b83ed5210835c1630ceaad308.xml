@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_menu">
+    <sp_instance_menu action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column/>
+        <sp_widget/>
+        <sys_class_name>sp_instance_menu</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-04 04:55:06</sys_created_on>
+        <sys_id>2a29629b83ed5210835c1630ceaad308</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Event Registration</sys_name>
+        <sys_package display_value="Event Registration" source="x_1555677_task_one">1deb198683e11210835c1630ceaad392</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Event Registration">1deb198683e11210835c1630ceaad392</sys_scope>
+        <sys_update_name>sp_instance_menu_2a29629b83ed5210835c1630ceaad308</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-04 04:55:06</sys_updated_on>
+        <title>Event Registration</title>
+        <url/>
+        <widget_parameters/>
+    </sp_instance_menu>
+    <sys_translated_text action="delete_multiple" query="documentkey=2a29629b83ed5210835c1630ceaad308"/>
+</record_update>
